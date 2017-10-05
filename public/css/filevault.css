@@ -1,0 +1,42 @@
+.paginationdiv{
+    margin:auto;
+    width: 25%;
+}
+.searchdiv{
+    margin-top:30px;
+    margin-bottom: 40px;
+    border-radius:15px;
+    padding: 20px;
+    font-size: 16px;
+    float:left;
+    color: #2a88bd;
+}
+
+.upload{
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+#lpublic{
+    margin-right: 30px;
+}
+#public{
+    margin-left: 10px;
+}
+#upsubmit{
+    margin:20px;
+}
+.tabhead{
+    color: #2a88bd;
+}
+.uploaddiv{
+    float:right;
+    margin-right: 20px;
+    font-size: 16px;
+    margin-top:60px;
+
+}
